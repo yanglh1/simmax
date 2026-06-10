@@ -107,7 +107,7 @@ https://ccs.ziranaa.top:16670
 服务端源码在：
 
 ```text
-server/simjiang-reminder/
+server/simmax-reminder/
 ```
 
 ### 工作原理
@@ -135,7 +135,7 @@ apksigner sign --ks debug.keystore app/build/outputs/apk/debug/app-debug.apk
 
 ## 📡 TG 频道
 
-https://t.me/simjiangAPP
+https://t.me/simmaxAPP
 
 ---
 
