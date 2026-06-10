@@ -1,0 +1,168 @@
+{
+  "45403": {
+    "mcc": "454",
+    "mnc": "03",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "name": "Three HK",
+    "brand": "3",
+    "logo": "assets/operators/hk/three.svg",
+    "website": "https://www.three.com.hk",
+    "brandColor": "#0066FF",
+    "esim": true
+  },
+  "45400": {
+    "mcc": "454",
+    "mnc": "00",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "name": "CSL",
+    "brand": "CSL",
+    "logo": "assets/operators/hk/csl.svg",
+    "brandColor": "#E60012",
+    "esim": true
+  },
+  "44010": {
+    "mcc": "440",
+    "mnc": "10",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "name": "NTT Docomo",
+    "brand": "docomo",
+    "logo": "assets/operators/jp/docomo.svg",
+    "brandColor": "#CC0033",
+    "esim": true
+  },
+  "44020": {
+    "mcc": "440",
+    "mnc": "20",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "name": "SoftBank",
+    "brand": "SoftBank",
+    "logo": "assets/operators/jp/softbank.svg",
+    "brandColor": "#000000",
+    "esim": true
+  },
+  "44050": {
+    "mcc": "440",
+    "mnc": "50",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "name": "au",
+    "brand": "au",
+    "logo": "assets/operators/jp/au.svg",
+    "brandColor": "#F58220",
+    "esim": true
+  },
+  "310260": {
+    "mcc": "310",
+    "mnc": "260",
+    "countryCode": "US",
+    "countryName": "United States",
+    "name": "T-Mobile US",
+    "brand": "T-Mobile",
+    "logo": "assets/operators/us/tmobile.svg",
+    "brandColor": "#E20074",
+    "esim": true
+  },
+  "310410": {
+    "mcc": "310",
+    "mnc": "410",
+    "countryCode": "US",
+    "countryName": "United States",
+    "name": "AT&T",
+    "brand": "AT&T",
+    "logo": "assets/operators/us/att.svg",
+    "brandColor": "#00A8E0",
+    "esim": true
+  },
+  "311480": {
+    "mcc": "311",
+    "mnc": "480",
+    "countryCode": "US",
+    "countryName": "United States",
+    "name": "Verizon",
+    "brand": "Verizon",
+    "logo": "assets/operators/us/verizon.svg",
+    "brandColor": "#E60000",
+    "esim": true
+  },
+  "46000": {
+    "mcc": "460",
+    "mnc": "00",
+    "countryCode": "CN",
+    "countryName": "China",
+    "name": "China Mobile",
+    "brand": "CMCC",
+    "logo": "assets/operators/cn/china_mobile.svg",
+    "brandColor": "#0085D0",
+    "esim": true
+  },
+  "46001": {
+    "mcc": "460",
+    "mnc": "01",
+    "countryCode": "CN",
+    "countryName": "China",
+    "name": "China Unicom",
+    "brand": "Unicom",
+    "logo": "assets/operators/cn/china_unicom.svg",
+    "brandColor": "#E60012",
+    "esim": true
+  },
+  "46003": {
+    "mcc": "460",
+    "mnc": "03",
+    "countryCode": "CN",
+    "countryName": "China",
+    "name": "China Telecom",
+    "brand": "Telecom",
+    "logo": "assets/operators/cn/china_telecom.svg",
+    "brandColor": "#005BAC",
+    "esim": true
+  },
+  "52003": {
+    "mcc": "520",
+    "mnc": "03",
+    "countryCode": "TH",
+    "countryName": "Thailand",
+    "name": "AIS",
+    "brand": "AIS",
+    "logo": "assets/operators/th/ais.svg",
+    "brandColor": "#78BE20",
+    "esim": true
+  },
+  "52000": {
+    "mcc": "520",
+    "mnc": "00",
+    "countryCode": "TH",
+    "countryName": "Thailand",
+    "name": "TrueMove H",
+    "brand": "True",
+    "logo": "assets/operators/th/true.svg",
+    "brandColor": "#E60012",
+    "esim": true
+  },
+  "26201": {
+    "mcc": "262",
+    "mnc": "01",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "name": "Telekom",
+    "brand": "Telekom",
+    "logo": "assets/operators/de/telekom.svg",
+    "brandColor": "#E20074",
+    "esim": true
+  },
+  "26202": {
+    "mcc": "262",
+    "mnc": "02",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "name": "Vodafone DE",
+    "brand": "Vodafone",
+    "logo": "assets/operators/de/vodafone.svg",
+    "brandColor": "#E60000",
+    "esim": true
+  }
+}

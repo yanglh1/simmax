@@ -1,0 +1,98 @@
+{
+  "46000": {
+    "mcc": "460",
+    "mnc": "00",
+    "countryCode": "CN",
+    "countryName": "China",
+    "name": "China Mobile",
+    "brand": "中国移动",
+    "logo": "assets/operators/cn/china_mobile.svg",
+    "website": "https://www.10086.cn",
+    "brandColor": "#0085D0",
+    "esim": true
+  },
+  "46001": {
+    "mcc": "460",
+    "mnc": "01",
+    "countryCode": "CN",
+    "countryName": "China",
+    "name": "China Unicom",
+    "brand": "中国联通",
+    "logo": "assets/operators/cn/china_unicom.svg",
+    "website": "https://www.chinaunicom.com.cn",
+    "brandColor": "#E60012",
+    "esim": true
+  },
+  "46003": {
+    "mcc": "460",
+    "mnc": "03",
+    "countryCode": "CN",
+    "countryName": "China",
+    "name": "China Telecom",
+    "brand": "中国电信",
+    "logo": "assets/operators/cn/china_telecom.svg",
+    "website": "https://www.189.cn",
+    "brandColor": "#005BAC",
+    "esim": true
+  },
+  "45403": {
+    "mcc": "454",
+    "mnc": "03",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "name": "Three HK",
+    "brand": "3",
+    "logo": "assets/operators/hk/three.svg",
+    "website": "https://www.three.com.hk",
+    "brandColor": "#0066FF",
+    "esim": true
+  },
+  "44010": {
+    "mcc": "440",
+    "mnc": "10",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "name": "NTT Docomo",
+    "brand": "docomo",
+    "logo": "assets/operators/jp/docomo.svg",
+    "website": "https://www.docomo.ne.jp",
+    "brandColor": "#CC0033",
+    "esim": true
+  },
+  "310260": {
+    "mcc": "310",
+    "mnc": "260",
+    "countryCode": "US",
+    "countryName": "United States",
+    "name": "T-Mobile US",
+    "brand": "T-Mobile",
+    "logo": "assets/operators/us/tmobile.svg",
+    "website": "https://www.t-mobile.com",
+    "brandColor": "#E20074",
+    "esim": true
+  },
+  "26202": {
+    "mcc": "262",
+    "mnc": "02",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "name": "Vodafone DE",
+    "brand": "Vodafone",
+    "logo": "assets/operators/de/vodafone.svg",
+    "website": "https://www.vodafone.de",
+    "brandColor": "#E60000",
+    "esim": true
+  },
+  "52001": {
+    "mcc": "520",
+    "mnc": "01",
+    "countryCode": "TH",
+    "countryName": "Thailand",
+    "name": "AIS",
+    "brand": "AIS",
+    "logo": "assets/operators/th/ais.svg",
+    "website": "https://www.ais.th",
+    "brandColor": "#7AC143",
+    "esim": true
+  }
+}

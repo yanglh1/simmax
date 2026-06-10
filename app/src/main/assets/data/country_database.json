@@ -1,0 +1,130 @@
+{
+  "CN": {
+    "name": "China",
+    "nameZh": "中国",
+    "emoji": "🇨🇳",
+    "flagImage": "assets/flag_backgrounds/cn.png",
+    "currency": "CNY",
+    "timezone": "Asia/Shanghai"
+  },
+  "HK": {
+    "name": "Hong Kong",
+    "nameZh": "香港",
+    "emoji": "🇭🇰",
+    "flagImage": "assets/flag_backgrounds/hk.png",
+    "currency": "HKD",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "MO": {
+    "name": "Macau",
+    "nameZh": "澳门",
+    "emoji": "🇲🇴",
+    "flagImage": "assets/flag_backgrounds/mo.png",
+    "currency": "MOP",
+    "timezone": "Asia/Macau"
+  },
+  "JP": {
+    "name": "Japan",
+    "nameZh": "日本",
+    "emoji": "🇯🇵",
+    "flagImage": "assets/flag_backgrounds/jp.png",
+    "currency": "JPY",
+    "timezone": "Asia/Tokyo"
+  },
+  "US": {
+    "name": "United States",
+    "nameZh": "美国",
+    "emoji": "🇺🇸",
+    "flagImage": "assets/flag_backgrounds/us.png",
+    "currency": "USD",
+    "timezone": "America/New_York"
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "nameZh": "英国",
+    "emoji": "🇬🇧",
+    "flagImage": "assets/flag_backgrounds/gb.png",
+    "currency": "GBP",
+    "timezone": "Europe/London"
+  },
+  "DE": {
+    "name": "Germany",
+    "nameZh": "德国",
+    "emoji": "🇩🇪",
+    "flagImage": "assets/flag_backgrounds/de.png",
+    "currency": "EUR",
+    "timezone": "Europe/Berlin"
+  },
+  "FR": {
+    "name": "France",
+    "nameZh": "法国",
+    "emoji": "🇫🇷",
+    "flagImage": "assets/flag_backgrounds/fr.png",
+    "currency": "EUR",
+    "timezone": "Europe/Paris"
+  },
+  "SG": {
+    "name": "Singapore",
+    "nameZh": "新加坡",
+    "emoji": "🇸🇬",
+    "flagImage": "assets/flag_backgrounds/sg.png",
+    "currency": "SGD",
+    "timezone": "Asia/Singapore"
+  },
+  "KR": {
+    "name": "South Korea",
+    "nameZh": "韩国",
+    "emoji": "🇰🇷",
+    "flagImage": "assets/flag_backgrounds/kr.png",
+    "currency": "KRW",
+    "timezone": "Asia/Seoul"
+  },
+  "TH": {
+    "name": "Thailand",
+    "nameZh": "泰国",
+    "emoji": "🇹🇭",
+    "flagImage": "assets/flag_backgrounds/th.png",
+    "currency": "THB",
+    "timezone": "Asia/Bangkok"
+  },
+  "MY": {
+    "name": "Malaysia",
+    "nameZh": "马来西亚",
+    "emoji": "🇲🇾",
+    "flagImage": "assets/flag_backgrounds/my.png",
+    "currency": "MYR",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "ID": {
+    "name": "Indonesia",
+    "nameZh": "印尼",
+    "emoji": "🇮🇩",
+    "flagImage": "assets/flag_backgrounds/id.png",
+    "currency": "IDR",
+    "timezone": "Asia/Jakarta"
+  },
+  "PH": {
+    "name": "Philippines",
+    "nameZh": "菲律宾",
+    "emoji": "🇵🇭",
+    "flagImage": "assets/flag_backgrounds/ph.png",
+    "currency": "PHP",
+    "timezone": "Asia/Manila"
+  },
+  "AU": {
+    "name": "Australia",
+    "nameZh": "澳大利亚",
+    "emoji": "🇦🇺",
+    "flagImage": "assets/flag_backgrounds/au.png",
+    "currency": "AUD",
+    "timezone": "Australia/Sydney"
+  },
+  "CA": {
+    "name": "Canada",
+    "nameZh": "加拿大",
+    "emoji": "🇨🇦",
+    "flagImage": "assets/flag_backgrounds/ca.png",
+    "currency": "CAD",
+    "timezone": "America/Toronto"
+  }
+}

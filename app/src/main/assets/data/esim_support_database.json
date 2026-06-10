@@ -1,0 +1,42 @@
+{
+  "46000": {
+    "esim": true,
+    "countryCode": "CN",
+    "name": "China Mobile"
+  },
+  "46001": {
+    "esim": true,
+    "countryCode": "CN",
+    "name": "China Unicom"
+  },
+  "46003": {
+    "esim": true,
+    "countryCode": "CN",
+    "name": "China Telecom"
+  },
+  "45403": {
+    "esim": true,
+    "countryCode": "HK",
+    "name": "Three HK"
+  },
+  "44010": {
+    "esim": true,
+    "countryCode": "JP",
+    "name": "NTT Docomo"
+  },
+  "310260": {
+    "esim": true,
+    "countryCode": "US",
+    "name": "T-Mobile US"
+  },
+  "26202": {
+    "esim": true,
+    "countryCode": "DE",
+    "name": "Vodafone DE"
+  },
+  "52001": {
+    "esim": true,
+    "countryCode": "TH",
+    "name": "AIS"
+  }
+}
