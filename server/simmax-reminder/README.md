@@ -1,6 +1,6 @@
-# SimJiang Cloud Reminder Service
+# SimMax Cloud Reminder Service
 
-Cloud reminder backend for SimJiang.
+Cloud reminder backend for SimMax.
 
 Features:
 - Multi-user API keys (`/api/register`)
@@ -19,5 +19,5 @@ https://ccs.ziranaa.top:16670
 Systemd service name on VPS:
 
 ```text
-simjiang-reminder
+simmax-reminder
 ```

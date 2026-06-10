@@ -775,7 +775,7 @@ fun sendSmtpMail(s:App设置,subject:String,body:String,onResult:((Boolean,Strin
             fun readResp():String = reader.readLine() ?: ""
             fun cmd(x:String):String{ writer.write(x+"\r\n"); writer.flush(); return readResp() }
             readResp()
-            cmd("EHLO simjiang.local")
+            cmd("EHLO simmax.local")
             cmd("AUTH LOGIN")
             cmd(smtpB64(s.smtpUser))
             cmd(smtpB64(s.smtpPass))
@@ -885,7 +885,7 @@ class MainActivity: ComponentActivity(){ private val req=registerForActivityResu
                 }
                 Row(Modifier.fillMaxWidth(),horizontalArrangement=Arrangement.spacedBy(8.dp)){
                     Button({ clipboard.setText(AnnotatedString(content)) },modifier=Modifier.weight(1f).height(46.dp),shape=RoundedCornerShape(15.dp),colors=ButtonDefaults.buttonColors(containerColor=Color.White,contentColor=Color(0xFF007AFF))){Text(L("复制"))}
-                    Button({ shareExportFile(ctx,"SimJiang-export-${System.currentTimeMillis()}.$ext",if(ext=="csv") "text/csv" else "application/json",content,exportFileTitle) },modifier=Modifier.weight(1f).height(46.dp),shape=RoundedCornerShape(15.dp),colors=ButtonDefaults.buttonColors(containerColor=Color(0xFF007AFF))){Text(L("导出文件"))}
+                    Button({ shareExportFile(ctx,"SimMax-export-${System.currentTimeMillis()}.$ext",if(ext=="csv") "text/csv" else "application/json",content,exportFileTitle) },modifier=Modifier.weight(1f).height(46.dp),shape=RoundedCornerShape(15.dp),colors=ButtonDefaults.buttonColors(containerColor=Color(0xFF007AFF))){Text(L("导出文件"))}
                 }
                 TextButton(onDismiss,modifier=Modifier.align(Alignment.CenterHorizontally)){Text(L("关闭"))}
             }
